@@ -29,4 +29,4 @@ Password:  admin
 
 Ao fazer login e entrar:
 SELECT * FROM TB_CURSO para verificar a tabela dos cursos
-SELECT * FROM TB_USUARIO para verificar a tabela dos usuarios
+SELECT * FROM TB_USUARIO para verificar a tabela dos usuarios.
